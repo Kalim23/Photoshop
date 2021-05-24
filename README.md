@@ -1,4 +1,7 @@
 # Photoshop
+
+**Java GUI Swing application**
+
 Simple photoshop application that allows you to edit images.
 
 Functions:
